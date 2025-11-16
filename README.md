@@ -1,4 +1,4 @@
-# Replix - AI Email Assistant
+# Replix - The Email Generator
 
 **Replix** is an AI-powered Gmail assistant designed to help users quickly generate and edit email replies.  
 It provides a seamless experience for Gmail users through a **browser extension** and a **web-based UI** for those who prefer not to install the extension.
